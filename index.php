@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php  include "include/header.php";
       include 'admin/function/connect.php';
 ?>
